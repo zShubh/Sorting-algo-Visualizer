@@ -19,10 +19,12 @@ Here are the key features of the visualization tool:
 ->Yellow for elements being compared
 ->Red for elements identified as incorrectly positioned and needing movement
 ->Green for elements in the correct position
+
 2)Visualization controls:
 
 ->Adjustable speed (5 levels) and Scalable data size
 ->Ability to generate new random data
+
 3)Displays time and space complexity of the algorithm in real-time.
 
 
